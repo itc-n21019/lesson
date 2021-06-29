@@ -5,5 +5,4 @@ for i in list1:
     for j in list2:
         added_up.append(i + j)
 
-
 print(added_up)
